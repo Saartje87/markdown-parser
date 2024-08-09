@@ -13,7 +13,7 @@ describe('lexer', () => {
 const a = 1;
 \`\`\`
 
-paragraph
+paragraph **bold** _italic_ ***bold and italic***!
 
 paragraph 2
 ---
